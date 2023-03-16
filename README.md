@@ -35,5 +35,5 @@ These round tables are for you if:
 - Paulo Bargo, R/Pharma executive | Johnson & Johnson
 - Michael Blanks, R/Pharma executive | Beigene
 - Volha Tryputsen, R/Pharma organizing committee | Johnson & Johnson
-- Shannon Pileggi, The Prostate Cancer Clinical Trials Consortium (PCCTC)
+- Shannon Pileggi, | The Prostate Cancer Clinical Trials Consortium (PCCTC)
 
