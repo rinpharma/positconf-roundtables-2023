@@ -16,6 +16,8 @@ We’ll start the day with a 90 minute workshop on a new validated repository fo
 - Building a case to invest our talent in contributing to open source
 - Measuring the positive impact of open source collaborations and contributions?
 
+You can contribute to the discussion about the final agenda via this collection of github discussions: https://github.com/rinpharma/positconf-roundtables-2023/discussions
+
 ## Audience
 
 These round tables are for you if:
@@ -25,15 +27,21 @@ These round tables are for you if:
 - You are an informatics professional designing and implementing GxP conforming data science platforms 
 - You are interested in cross-pharma collaboration
 
-## Facilitators 
+## Round table advisory board: 
 
-- Phil Bowsher, R/Pharma executive | Posit
 - James Black, R/Pharma executive | Roche
 - Ning Leng, R/Pharma organizing committee | Genentech
 - Doug Kehlkoff, R Validation Hub Lead | Genentech
+- Michael Rimler | GSK
+- Andy Nicholls | GSK
 - Harvey Lieberman, R/Pharma executive | Novartis
-- Paulo Bargo, R/Pharma executive | Johnson & Johnson
+- Paulo Bargo, R/Pharma executive 
 - Michael Blanks, R/Pharma executive | Beigene
 - Volha Tryputsen, R/Pharma organizing committee | Johnson & Johnson
 - Shannon Pileggi, | The Prostate Cancer Clinical Trials Consortium (PCCTC)
 
+## Organising committee
+
+- Phil Bowsher, R/Pharma executive | Posit
+- James Black, R/Pharma executive | Roche
+- Harvey Lieberman, R/Pharma executive | Novartis
