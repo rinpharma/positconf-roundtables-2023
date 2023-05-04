@@ -29,16 +29,16 @@ These round tables are for you if:
 
 ## Round table advisory board: 
 
-- James Black, R/Pharma executive | Roche
-- Ning Leng, R/Pharma organizing committee | Genentech
-- Doug Kehlkoff, R Validation Hub Lead | Genentech
-- Michael Rimler | GSK
-- Andy Nicholls | GSK
-- Harvey Lieberman, R/Pharma executive | Novartis
+- James Black, R/Pharma executive; Roche
+- Ning Leng, R/Pharma organizing committee;  Genentech
+- Doug Kehlkoff, R Validation Hub Lead; Genentech
+- Michael Rimler; GSK
+- Andy Nicholls; GSK
+- Harvey Lieberman, R/Pharma executive; Novartis
 - Paulo Bargo, R/Pharma executive 
-- Michael Blanks, R/Pharma executive | Beigene
-- Volha Tryputsen, R/Pharma organizing committee | Johnson & Johnson
-- Shannon Pileggi, | The Prostate Cancer Clinical Trials Consortium (PCCTC)
+- Michael Blanks, R/Pharma executive; Beigene
+- Volha Tryputsen, R/Pharma organizing committee; Johnson & Johnson
+- Shannon Pileggi; The Prostate Cancer Clinical Trials Consortium (PCCTC)
 
 ## Organising committee
 
