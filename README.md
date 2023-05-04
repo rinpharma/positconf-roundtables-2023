@@ -42,6 +42,6 @@ These round tables are for you if:
 
 ## Organising committee
 
-- Phil Bowsher, R/Pharma executive | Posit
-- James Black, R/Pharma executive | Roche
-- Harvey Lieberman, R/Pharma executive | Novartis
+- Phil Bowsher, R/Pharma executive; Posit
+- James Black, R/Pharma executive; Roche
+- Harvey Lieberman, R/Pharma executive; Novartis
