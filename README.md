@@ -1,5 +1,7 @@
 # positconf-roundtables-2023
 
+[![All Contributors](https://img.shields.io/github/all-contributors/rinpharma/positconf-roundtables-2023?color=ee8449&style=flat-square)](#contributors)
+
 ## Background
 
 In 2018 and 2019, R in Pharma was in-person at Harvard University and focused on opportunities for direct interaction with speakers and guests. These relationships and connections have grown into many exciting areas of Open Source drug development. We are excited to announce R/Pharma is partnering with Posit to host our in-person portion at posit::conf(2023) in Chicago. There will be a Pharma workshop on Sunday Sept 17, and on the 18th of September we will be hosting the R/Pharma Roundtable Summit. 
@@ -45,3 +47,15 @@ These round tables are for you if:
 - Phil Bowsher, R/Pharma executive; Posit
 - James Black, R/Pharma executive; Roche
 - Harvey Lieberman, R/Pharma executive; Novartis
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
