@@ -49,5 +49,15 @@ These round tables are for you if:
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/epijim">
+            <img src="https://avatars.githubusercontent.com/u/2760096?v=4" width="100;" alt="epijim"/>
+            <br />
+            <sub><b>James Black</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
