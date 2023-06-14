@@ -39,6 +39,10 @@ These round tables are for you if:
 - Michael Blanks, R/Pharma executive; Beigene
 - Volha Tryputsen, R/Pharma organizing committee; Johnson & Johnson
 - Shannon Pileggi; The Prostate Cancer Clinical Trials Consortium (PCCTC)
+- Mike Smith; Pfizer
+- Max Kuhn; Posit
+- Rich Ioannone; Posit
+- Sumesh Kalappurakal; J&J
 
 ## Organising committee
 
