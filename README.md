@@ -29,20 +29,24 @@ These round tables are for you if:
 
 ## Round table advisory board: 
 
-- James Black, R/Pharma executive; Roche
+Ordered alphabetically by company;
+
+- Cassie Milmont; Amgen
+- Lee Min; Amgen
+- Michael Blanks, R/Pharma executive; Beigene
 - Ning Leng, R/Pharma organizing committee;  Genentech
 - Doug Kehlkoff, R Validation Hub Lead; Genentech
 - Michael Rimler; GSK
 - Andy Nicholls; GSK
+- Volha Tryputsen, R/Pharma organizing committee; J&J
+- Sumesh Kalappurakal; J&J
 - Harvey Lieberman, R/Pharma executive; Novartis
-- Paulo Bargo, R/Pharma executive 
-- Michael Blanks, R/Pharma executive; Beigene
-- Volha Tryputsen, R/Pharma organizing committee; Johnson & Johnson
 - Shannon Pileggi; The Prostate Cancer Clinical Trials Consortium (PCCTC)
 - Mike Smith; Pfizer
 - Max Kuhn; Posit
 - Rich Ioannone; Posit
-- Sumesh Kalappurakal; J&J
+- Paulo Bargo, R/Pharma executive 
+- James Black, R/Pharma executive; Roche
 
 ## Organising committee
 
@@ -50,18 +54,5 @@ These round tables are for you if:
 - James Black, R/Pharma executive; Roche
 - Harvey Lieberman, R/Pharma executive; Novartis
 
-## Contributors
 
-<!-- readme: collaborators,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/epijim">
-            <img src="https://avatars.githubusercontent.com/u/2760096?v=4" width="100;" alt="epijim"/>
-            <br />
-            <sub><b>James Black</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators,contributors -end -->
 
