@@ -40,6 +40,7 @@ Ordered alphabetically by company;
 - Andy Nicholls; GSK
 - Volha Tryputsen, R/Pharma organizing committee; J&J
 - Sumesh Kalappurakal; J&J
+- Mark Bynens; J&J
 - Harvey Lieberman, R/Pharma executive; Novartis
 - Shannon Pileggi; The Prostate Cancer Clinical Trials Consortium (PCCTC)
 - Mike Smith; Pfizer
